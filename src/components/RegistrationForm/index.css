@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.bg-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+.inputEl {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
